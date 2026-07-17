@@ -10,16 +10,6 @@ CONSTRAINT FK_DepartmentID FOREIGN KEY (DepartmentID)
 REFERENCES Department(DepartmentID)
 );
 DESC Student;
--- Create Student table
 
--- StudentID
 
--- StudentName
 
--- DOB
-
--- Gender
-
--- DepartmentID
-
--- Add constraints
